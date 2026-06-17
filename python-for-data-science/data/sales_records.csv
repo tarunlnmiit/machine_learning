@@ -1,0 +1,501 @@
+Customer ID ,order_id,order_date,Rev (USD),region,status,notes,age,month,product,sales_rep,country
+CUST1000,ORD05000,2025-05-21,2613.41, north,active,follow up,28,May,Basic,Alice,USA
+CUST1001,ORD05001,2025-11-05,20159.85,West,active,follow up,63,Nov,Pro,Alice,USA
+CUST1002,ORD05002,2025-03-21,29251.17, north,churned,-,43,Mar,Pro,Alice,Canada
+CUST1003,ORD05003,2025-07-13,82728.28,East,active,follow up,62,Jul,Enterprise,Alice,USA
+CUST1004,ORD05004,2025-04-30,83751.22,East,churned,follow up,51,Apr,Starter,Carol,USA
+CUST1005,ORD05005,2025-05-06,14961.22,South,trial,follow up,39,May,Enterprise,Bob,USA
+CUST1006,ORD05006,2025-02-03,34398.42,East,inactive,follow up,58,Feb,Basic,David,USA
+CUST1007,ORD05007,10-15-2025,21340.02,West,trial,,59,Oct,Basic,Alice,USA
+CUST1008,ORD05008,03-23-2025,13415.09, west,active,,26,Mar,Enterprise,Alice,UK
+CUST1009,ORD05009,2025-06-24,65446.59,NORTH,active,None,32,Jun,Pro,Eve,UK
+CUST1010,ORD05010,03-24-2025,32095.72,East,active,follow up,55,Mar,Pro,Carol,USA
+CUST1011,ORD05011,2025-02-10,"75364,",NORTH,inactive,follow up,26,Feb,Starter,Carol,UK
+CUST1012,ORD05012,04-19-2025,36255.16,West,active,follow up,34,Apr,Pro,David,UK
+CUST1013,ORD05012,02/02/2025,21448.02,South,active,,,Feb,Enterprise,Bob,USA
+CUST1014,ORD05014,02-06-2025,73139.19,NORTH,active,,64,Feb,Basic,Bob,Canada
+CUST1015,ORD05015,02-19-2025,16589.64, north,active,N/A,49,Feb,Pro,Alice,USA
+CUST1016,ORD05016,13/03/2025,45816.15, west,trial,N/A,51,Mar,Enterprise,Alice,UK
+CUST1017,ORD05017,2025-05-02,82380.18,North,active,-,52,May,Basic,Carol,Canada
+CUST1018,ORD05018,10-12-2025,59361.98,North,active,na,31,Oct,Enterprise,Carol,USA
+CUST1019,ORD05019,09-15-2025,"63493,", north,active,na,54,Sep,Starter,David,USA
+CUST1020,ORD05020,10-24-2025,48637.57,East,trial,,,Oct,Pro,Bob,USA
+CUST1021,ORD05021,03/06/2025,57257.82, north,trial,,26,Jun,Pro,Bob,USA
+CUST1022,ORD05022,09/07/2025,74798.34,North,active,follow up,56,Jul,Pro,Alice,USA
+CUST1023,ORD05023,2025-10-11,75680.72,South,trial,None,60,Oct,Pro,Eve,Canada
+CUST1024,ORD05024,2025-01-27,77239.44,NORTH,churned,None,39,Jan,Starter,David,UK
+CUST1025,ORD05025,2025-02-27,47896.63,NORTH,active,None,31,Feb,Pro,Carol,USA
+CUST1026,ORD05026,05-08-2025,18251.47,West,active,follow up,,May,Starter,Bob,USA
+CUST1027,ORD05027,2025-07-31,69010.21,West,trial,follow up,43,Jul,Starter,Carol,USA
+CUST1028,ORD05027,20/01/2025,9634.08,South,trial,na,51,Jan,Basic,Carol,USA
+CUST1029,ORD05029,23/05/2025,82202.13,East,active,follow up,47,May,Pro,Bob,UK
+CUST1030,ORD05030,02-25-2025,22931.91, north,active,,42,Feb,Starter,Carol,USA
+CUST1031,ORD05031,10-03-2025,642.91, north,churned,-,64,Oct,Pro,Alice,USA
+CUST1032,ORD05032,17/06/2025,56852.45,West,trial,-,57,Jun,Pro,David,UK
+CUST1033,ORD05033,18/04/2025,26177.43, west,active,follow up,60,Apr,Starter,Eve,Canada
+CUST1034,ORD05034,03-28-2025,81605.8,East,trial,,,Mar,Starter,Carol,USA
+CUST1035,ORD05035,2025-01-24,12951.41, north,active,follow up,61,Jan,Starter,David,Canada
+CUST1036,ORD05036,2025-12-19,12969.78,South,active,follow up,28,Dec,Basic,Alice,UK
+CUST1037,ORD05037,2025-08-22,72184.42,East,inactive,,64,Aug,Basic,Eve,Canada
+CUST1038,ORD05038,01/09/2025,63338.88,south ,active,follow up,37,Sep,Basic,Bob,USA
+CUST1039,ORD05039,01/05/2025,60794.54,South,trial,na,56,May,Starter,Alice,Canada
+CUST1040,ORD05040,2025-08-01,46350.64,North,trial,,48,Aug,Basic,David,USA
+CUST1041,ORD05041,19/07/2025,25732.77,South,churned,follow up,56,Jul,Basic,David,USA
+CUST1042,ORD05042,07-27-2025,57019.82,North,active,follow up,51,Jul,Enterprise,Alice,Canada
+CUST1043,ORD05043,26/01/2025,39513.52,West,trial,None,35,Jan,Basic,Carol,USA
+CUST1044,ORD05044,27/01/2025,63792.55,North,trial,follow up,26,Jan,Starter,Alice,UK
+CUST1045,ORD05045,2025-12-09,11165.67,East,active,None,35,Dec,Enterprise,Bob,USA
+CUST1046,ORD05046,06-09-2025,2669.83, north,trial,na,46,Jun,Starter,Alice,USA
+CUST1047,ORD05047,03-03-2025,51234.78, north,churned,None,44,Mar,Enterprise,David,Canada
+CUST1048,ORD05048,22/11/2025,81686.55,south ,active,,49,Nov,Basic,David,Canada
+CUST1049,ORD05049,2025-06-15,50564.11,South,active,-,27,Jun,Basic,Carol,USA
+CUST1050,ORD05050,2025-09-07,27963.7,south ,active,,38,Sep,Starter,Alice,USA
+CUST1051,ORD05051,05-04-2025,41784.83, north,inactive,N/A,53,May,Starter,Carol,UK
+CUST1052,ORD05052,26/06/2025,47268.46,south ,trial,-,57,Jun,Enterprise,Bob,USA
+CUST1053,ORD05053,2025-12-20,45780.51,south ,trial,,52,Dec,Starter,Carol,USA
+CUST1054,ORD05054,12-29-2025,26041.61,south ,trial,follow up,24,Dec,Basic,Alice,USA
+CUST1055,ORD05055,14/08/2025,40164.04, north,inactive,-,25,Aug,Basic,Alice,UK
+CUST1056,ORD05056,03-18-2025,5029.97, north,inactive,follow up,27,Mar,Starter,Eve,Canada
+CUST1057,ORD05057,29/10/2025,37909.92,South,churned,N/A,61,Oct,Enterprise,Bob,USA
+CUST1058,ORD05058,02/01/2025,6842.98,South,churned,N/A,60,Jan,Basic,Alice,USA
+CUST1059,ORD05059,11-17-2025,67071.47,South,churned,,34,Nov,Starter,Alice,USA
+CUST1060,ORD05060,19/10/2025,26493.2,West,active,follow up,51,Oct,Basic,David,USA
+CUST1061,ORD05061,06-15-2025,75656.23,North,active,,27,Jun,Pro,Eve,USA
+CUST1062,ORD05062,09-23-2025,15303.62,West,inactive,,39,Sep,Enterprise,David,USA
+CUST1063,ORD05063,2025-02-23,27629.42,North,churned,-,53,Feb,Pro,Carol,USA
+CUST1064,ORD05064,2025-09-21,34652.79,South,active,N/A,56,Sep,Basic,David,USA
+CUST1065,ORD05065,28/05/2025,46909.06,South,churned,,53,May,Enterprise,Eve,Canada
+CUST1066,ORD05066,28/02/2025,84345.73, west,churned,follow up,63,Feb,Pro,David,Canada
+CUST1067,ORD05067,2025-10-10,21095.26, north,trial,na,60,Oct,Basic,Carol,UK
+CUST1068,ORD05068,06-02-2025,716.76, west,churned,na,64,Jun,Pro,Eve,UK
+CUST1069,ORD05069,04-07-2025,79326.02,North,inactive,-,46,Apr,Basic,David,USA
+CUST1070,ORD05070,09-15-2025,3628.16, west,inactive,follow up,28,Sep,Enterprise,Bob,Canada
+CUST1071,ORD05071,08/02/2025,82461.35, north,trial,-,38,Feb,Basic,Carol,Canada
+CUST1072,ORD05072,2025-02-05,3533.47, north,active,follow up,40,Feb,Enterprise,David,USA
+CUST1073,ORD05073,24/01/2025,76839.33,NORTH,inactive,-,40,Jan,Starter,Bob,USA
+CUST1074,ORD05074,11-14-2025,"51140,",south ,active,-,59,Nov,Enterprise,David,USA
+CUST1075,ORD05075,15/08/2025,13848.94,West,inactive,follow up,41,Aug,Pro,Bob,Canada
+CUST1076,ORD05075,07-15-2025,9512.2,south ,trial,follow up,40,Jul,Basic,Carol,USA
+CUST1077,ORD05077,01-26-2025,58450.06,South,churned,follow up,40,Jan,Starter,Bob,UK
+CUST1078,ORD05078,12-04-2025,64346.28,south ,active,N/A,62,Dec,Pro,Bob,USA
+CUST1079,ORD05079,2025-08-01,28107.77,East,churned,follow up,56,Aug,Starter,Carol,Canada
+CUST1080,ORD05080,2025-06-23,25439.45,West,trial,na,26,Jun,Pro,Alice,Canada
+CUST1081,ORD05081,21/08/2025,TBD,East,trial,-,65,Aug,Basic,Alice,UK
+CUST1082,ORD05082,2025-11-09,47938.92,south ,active,follow up,62,Nov,Starter,Alice,USA
+CUST1083,ORD05083,2025-02-19,42126.78,West,active,None,30,Feb,Starter,David,USA
+CUST1084,ORD05084,2025-05-24,52522.61,East,active,na,35,May,Pro,Eve,USA
+CUST1085,ORD05085,2025-04-08,"37160,",North,churned,na,51,Apr,Starter,Bob,UK
+CUST1086,ORD05086,2025-10-11,70619.61,North,trial,na,36,Oct,Starter,Eve,USA
+CUST1087,ORD05087,2025-01-14,9788.78,South,active,follow up,,Jan,Starter,Carol,USA
+CUST1088,ORD05088,02-28-2025,36071.17, north,trial,None,,Feb,Enterprise,Eve,USA
+CUST1089,ORD05089,01/02/2025,81960.21, west,inactive,follow up,49,Feb,Enterprise,Alice,USA
+CUST1090,ORD05090,05-21-2025,6050.15,West,active,follow up,57,May,Pro,David,UK
+CUST1091,ORD05091,2025-12-26,8880.58,South,trial,follow up,63,Dec,Basic,Carol,Canada
+CUST1092,ORD05092,10/06/2025,62152.26, west,trial,na,38,Jun,Enterprise,Alice,Canada
+CUST1093,ORD05093,03-08-2025,62928.26,East,inactive,follow up,,Mar,Pro,David,USA
+CUST1094,ORD05094,2025-06-30,51234.65,South,churned,-,35,Jun,Pro,Alice,USA
+CUST1095,ORD05094,10-15-2025,68710.21,south ,churned,,63,Oct,Pro,Carol,USA
+CUST1096,ORD05096,10-17-2025,TBD,North,active,follow up,31,Oct,Starter,David,Canada
+CUST1097,ORD05097,06-09-2025,13801.08,NORTH,active,N/A,58,Jun,Enterprise,Alice,USA
+CUST1098,ORD05098,07/11/2025,36329.25, north,active,follow up,35,Nov,Pro,Eve,Canada
+CUST1099,ORD05099,23/04/2025,26561.44,South,trial,None,25,Apr,Pro,Carol,USA
+CUST1100,ORD05100,2025-08-09,42529.06,East,trial,follow up,56,Aug,Enterprise,David,USA
+CUST1101,ORD05101,06-10-2025,7079.39,West,inactive,follow up,47,Jun,Enterprise,Carol,USA
+CUST1102,ORD05102,20/12/2025,52731.58,South,inactive,follow up,,Dec,Enterprise,David,USA
+CUST1103,ORD05103,2025-03-28,19222.84,East,trial,na,29,Mar,Starter,Bob,USA
+CUST1104,ORD05104,2025-11-05,17169.47, west,trial,-,63,Nov,Basic,Eve,UK
+CUST1105,ORD05105,2025-06-11,82547.22,south ,churned,None,52,Jun,Enterprise,Carol,Canada
+CUST1106,ORD05106,2025-05-27,5307.21,West,active,follow up,27,May,Enterprise,David,UK
+CUST1107,ORD05107,09-01-2025,27669.01, north,trial,None,25,Sep,Enterprise,Bob,Canada
+CUST1108,ORD05108,2025-11-09,44783.79,North,active,None,40,Nov,Pro,Alice,USA
+CUST1109,ORD05109,26/05/2025,57823.05,NORTH,active,follow up,64,May,Starter,Carol,USA
+CUST1110,ORD05110,2025-07-20,59521.56,East,active,-,27,Jul,Enterprise,David,UK
+CUST1111,ORD05111,2025-04-03,31139.5,NORTH,trial,na,53,Apr,Enterprise,Eve,UK
+CUST1112,ORD05112,01-20-2025,75171.14,NORTH,trial,-,61,Jan,Starter,David,USA
+CUST1113,ORD05113,02/05/2025,57652.67,south ,trial,na,50,May,Basic,Bob,USA
+CUST1114,ORD05114,14/08/2025,48700.44,NORTH,trial,-,46,Aug,Starter,Carol,USA
+CUST1115,ORD05115,2025-10-11,74362.88,south ,trial,follow up,55,Oct,Pro,David,UK
+CUST1116,ORD05116,24/04/2025,37466.43,East,active,-,23,Apr,Pro,Bob,USA
+CUST1117,ORD05117,29/11/2025,8872.52,NORTH,inactive,-,30,Nov,Basic,Eve,USA
+CUST1118,ORD05118,2025-04-21,2105.83,south ,active,N/A,60,Apr,Enterprise,Bob,Canada
+CUST1119,ORD05119,2025-02-02,53127.49,South,churned,N/A,53,Feb,Basic,Alice,UK
+CUST1120,ORD05120,04-06-2025,48721.08, north,active,follow up,55,Apr,Enterprise,David,Canada
+CUST1121,ORD05121,11/07/2025,"51709,",East,active,follow up,44,Jul,Enterprise,Eve,USA
+CUST1122,ORD05122,06-23-2025,30269.27,NORTH,active,-,65,Jun,Basic,Alice,USA
+CUST1123,ORD05123,22/01/2025,67348.73, west,trial,,54,Jan,Starter,Carol,USA
+CUST1124,ORD05124,02/12/2025,4539.44, west,inactive,-,45,Dec,Pro,Bob,Canada
+CUST1125,ORD05125,23/09/2025,31540.82,NORTH,churned,,49,Sep,Enterprise,Alice,USA
+CUST1126,ORD05126,11-05-2025,26398.9,East,inactive,N/A,50,Nov,Pro,Alice,USA
+CUST1127,ORD05127,09-20-2025,34824.76, west,active,,23,Sep,Starter,Carol,USA
+CUST1128,ORD05128,2025-11-06,48432.17,NORTH,inactive,N/A,45,Nov,Pro,Carol,USA
+CUST1129,ORD05129,06/04/2025,2689.68, west,active,None,57,Apr,Pro,David,USA
+CUST1130,ORD05130,2025-08-20,72563.82,East,active,follow up,50,Aug,Enterprise,Eve,UK
+CUST1131,ORD05131,03-22-2025,25846.34,South,trial,None,62,Mar,Starter,Bob,Canada
+CUST1132,ORD05132,08/07/2025,TBD, north,active,N/A,57,Jul,Basic,Eve,Canada
+CUST1133,ORD05133,2025-02-07,70072.18,East,trial,-,63,Feb,Starter,Bob,Canada
+CUST1134,ORD05134,03-05-2025,73863.88,East,active,na,32,Mar,Pro,Alice,USA
+CUST1135,ORD05135,2025-05-21,81311.71,NORTH,active,,61,May,Starter,Bob,UK
+CUST1136,ORD05136,2025-10-16,51634.24,south ,trial,,23,Oct,Basic,Eve,USA
+CUST1137,ORD05137,05-29-2025,53495.36,south ,active,-,52,May,Enterprise,Bob,Canada
+CUST1138,ORD05138,06-24-2025,39745.36,East,trial,follow up,42,Jun,Pro,Eve,UK
+CUST1139,ORD05139,04/03/2025,20926.85,West,inactive,None,31,Mar,Starter,Bob,USA
+CUST1140,ORD05139,2025-04-08,61435.35, west,inactive,None,54,Apr,Basic,Bob,USA
+CUST1141,ORD05141,25/05/2025,4611.61,south ,trial,follow up,63,May,Enterprise,David,USA
+CUST1142,ORD05142,26/07/2025,61974.43,South,churned,,,Jul,Enterprise,David,UK
+CUST1143,ORD05143,11-16-2025,46962.92,West,churned,follow up,30,Nov,Pro,Bob,USA
+CUST1144,ORD05144,2025-01-21,34417.21, west,trial,follow up,,Jan,Starter,Carol,UK
+CUST1145,ORD05145,11-12-2025,33704.66, west,churned,,59,Nov,Basic,Alice,USA
+CUST1146,ORD05146,08-02-2025,9761.59,south ,trial,-,62,Aug,Starter,Alice,UK
+CUST1147,ORD05147,14/11/2025,44797.63, north,inactive,,65,Nov,Pro,David,USA
+CUST1148,ORD05148,09-14-2025,17728.85,South,active,follow up,25,Sep,Basic,Eve,Canada
+CUST1149,ORD05149,30/09/2025,15133.91,south ,trial,follow up,65,Sep,Starter,Carol,UK
+CUST1150,ORD05150,02/06/2025,80055.53,south ,active,None,53,Jun,Basic,David,USA
+CUST1151,ORD05151,2025-05-29,68490.04,south ,trial,-,27,May,Starter,Eve,USA
+CUST1152,ORD05152,2025-03-12,59326.47,South,active,N/A,59,Mar,Enterprise,David,USA
+CUST1153,ORD05153,2025-03-12,8996.04, west,trial,-,32,Mar,Pro,Carol,USA
+CUST1154,ORD05154,02-15-2025,77220.67,North,trial,follow up,56,Feb,Basic,Bob,USA
+CUST1155,ORD05155,2025-09-11,34046.04,North,active,follow up,40,Sep,Enterprise,Carol,USA
+CUST1156,ORD05156,26/09/2025,54690.9, west,trial,follow up,30,Sep,Enterprise,Carol,USA
+CUST1157,ORD05157,2025-04-06,55280.11,NORTH,active,na,40,Apr,Basic,David,UK
+CUST1158,ORD05158,2025-02-18,34370.41,North,trial,na,52,Feb,Basic,Carol,USA
+CUST1159,ORD05159,06/01/2025,61583.57, west,inactive,N/A,37,Jan,Pro,Alice,USA
+CUST1160,ORD05160,10/03/2025,19161.76, west,trial,,60,Mar,Starter,Bob,UK
+CUST1161,ORD05161,08-17-2025,7418.04, north,active,follow up,26,Aug,Starter,Eve,UK
+CUST1162,ORD05162,24/09/2025,28225.94, west,active,,,Sep,Basic,Alice,Canada
+CUST1163,ORD05163,2025-10-16,35603.38,North,trial,follow up,65,Oct,Enterprise,Bob,UK
+CUST1164,ORD05164,06-26-2025,"56534,", north,inactive,follow up,,Jun,Enterprise,Carol,Canada
+CUST1165,ORD05165,11-25-2025,11943.74, west,inactive,-,48,Nov,Basic,Alice,UK
+CUST1166,ORD05166,2025-03-02,73194.22,North,churned,na,47,Mar,Basic,Eve,Canada
+CUST1167,ORD05167,07/05/2025,70073.96,North,inactive,N/A,39,May,Enterprise,Bob,USA
+CUST1168,ORD05168,18/01/2025,"78849,",West,active,N/A,25,Jan,Starter,Alice,USA
+CUST1169,ORD05169,22/10/2025,24942.76,South,trial,follow up,65,Oct,Starter,David,USA
+CUST1170,ORD05170,10-30-2025,47542.68, west,churned,follow up,62,Oct,Basic,Eve,USA
+CUST1171,ORD05171,03/06/2025,34997.9,south ,trial,na,56,Jun,Basic,Alice,UK
+CUST1172,ORD05172,2025-09-29,35694.91, west,active,N/A,38,Sep,Starter,Alice,USA
+CUST1173,ORD05173,2025-01-21,51619.92,South,trial,follow up,59,Jan,Pro,Carol,USA
+CUST1174,ORD05174,03-02-2025,16557.0,South,trial,follow up,52,Mar,Pro,Carol,Canada
+CUST1175,ORD05175,07/06/2025,55316.95,East,churned,-,53,Jun,Pro,David,USA
+CUST1176,ORD05176,2025-03-16,19197.66,south ,churned,-,59,Mar,Starter,David,UK
+CUST1177,ORD05177,12-02-2025,42690.98, west,active,follow up,53,Dec,Pro,Bob,USA
+CUST1178,ORD05178,10-05-2025,41762.73,North,inactive,N/A,55,Oct,Starter,Bob,USA
+CUST1179,ORD05179,16/09/2025,1272.45, west,active,follow up,61,Sep,Enterprise,Eve,UK
+CUST1180,ORD05180,05-21-2025,1913.36,NORTH,active,-,23,May,Starter,Bob,USA
+CUST1181,ORD05181,01/07/2025,21829.34, west,active,-,27,Jul,Starter,Carol,USA
+CUST1182,ORD05182,2025-01-17,73019.52,North,active,N/A,46,Jan,Basic,David,USA
+CUST1183,ORD05183,02-18-2025,72997.65, west,active,,36,Feb,Pro,Eve,UK
+CUST1184,ORD05184,2025-06-11,15655.46, north,active,-,59,Jun,Starter,Eve,Canada
+CUST1185,ORD05185,07-16-2025,46177.53,North,trial,None,27,Jul,Enterprise,Carol,UK
+CUST1186,ORD05186,23/07/2025,81185.53, west,active,-,,Jul,Basic,David,USA
+CUST1187,ORD05187,02-13-2025,56326.78, north,inactive,follow up,37,Feb,Starter,David,USA
+CUST1188,ORD05188,07/06/2025,8233.48,NORTH,active,N/A,39,Jun,Basic,Alice,USA
+CUST1189,ORD05189,11-02-2025,47331.57,West,active,-,46,Nov,Starter,Eve,UK
+CUST1190,ORD05190,13/03/2025,32671.86,West,churned,na,53,Mar,Basic,Alice,USA
+CUST1191,ORD05190,17/11/2025,21336.86,south ,inactive,na,34,Nov,Pro,Eve,Canada
+CUST1192,ORD05192,21/06/2025,28346.28,NORTH,active,follow up,63,Jun,Starter,David,USA
+CUST1193,ORD05193,13/06/2025,34151.24,South,churned,,62,Jun,Basic,Carol,USA
+CUST1194,ORD05194,2025-10-07,17383.1,South,churned,-,57,Oct,Enterprise,David,Canada
+CUST1195,ORD05195,05-10-2025,26089.36, north,active,follow up,49,May,Basic,Eve,Canada
+CUST1196,ORD05196,21/12/2025,78535.39, north,trial,follow up,45,Dec,Pro,Bob,UK
+CUST1197,ORD05197,19/06/2025,"53378,",South,inactive,na,,Jun,Basic,Eve,UK
+CUST1198,ORD05198,2025-09-05,84805.88,East,inactive,na,27,Sep,Starter,Eve,Canada
+CUST1199,ORD05199,23/12/2025,8749.15,North,active,N/A,41,Dec,Enterprise,Bob,USA
+CUST1200,ORD05200,06-19-2025,47136.42,NORTH,active,-,51,Jun,Basic,David,USA
+CUST1201,ORD05201,08-19-2025,75121.73,South,active,follow up,22,Aug,Enterprise,Eve,USA
+CUST1202,ORD05202,07/07/2025,45867.12,East,active,-,29,Jul,Basic,Eve,USA
+CUST1203,ORD05203,2025-11-13,71946.25, north,churned,follow up,41,Nov,Enterprise,Bob,USA
+CUST1204,ORD05204,03-14-2025,32044.36,West,active,-,60,Mar,Starter,Eve,USA
+CUST1205,ORD05205,11/06/2025,12355.06, west,trial,follow up,44,Jun,Basic,Eve,UK
+CUST1206,ORD05206,09/09/2025,35071.85,North,trial,N/A,50,Sep,Pro,Alice,USA
+CUST1207,ORD05207,08-23-2025,24892.64, north,active,N/A,53,Aug,Pro,Eve,USA
+CUST1208,ORD05208,22/04/2025,37795.48,South,active,follow up,,Apr,Basic,Carol,USA
+CUST1209,ORD05209,2025-03-02,7850.06,West,trial,follow up,59,Mar,Starter,Bob,USA
+CUST1210,ORD05210,11-02-2025,45477.73, north,trial,None,40,Nov,Basic,Alice,USA
+CUST1211,ORD05211,2025-03-09,11222.05,West,active,follow up,42,Mar,Pro,David,Canada
+CUST1212,ORD05212,17/02/2025,54041.55,East,inactive,follow up,39,Feb,Pro,Eve,USA
+CUST1213,ORD05213,02-17-2025,72085.64,East,trial,follow up,62,Feb,Basic,Bob,Canada
+CUST1214,ORD05214,15/06/2025,42303.41,East,trial,-,58,Jun,Enterprise,Alice,USA
+CUST1215,ORD05215,2025-01-09,71201.33,West,active,N/A,32,Jan,Starter,Carol,USA
+CUST1216,ORD05216,02-17-2025,74572.28,North,churned,na,27,Feb,Starter,David,USA
+CUST1217,ORD05216,2025-09-02,591.79,North,churned,-,36,Sep,Enterprise,David,USA
+CUST1218,ORD05218,02-15-2025,19846.01,NORTH,trial,None,28,Feb,Starter,Bob,USA
+CUST1219,ORD05219,2025-11-29,1216.12,NORTH,active,follow up,35,Nov,Basic,Bob,USA
+CUST1220,ORD05220,03-05-2025,12331.11,East,trial,follow up,44,Mar,Pro,Alice,USA
+CUST1221,ORD05221,08/11/2025,51200.66,south ,active,follow up,23,Nov,Starter,David,USA
+CUST1222,ORD05222,03/05/2025,66731.24, north,active,,37,May,Pro,Carol,USA
+CUST1223,ORD05222,04/08/2025,71393.24, north,active,follow up,33,Aug,Enterprise,Carol,USA
+CUST1224,ORD05224,07-23-2025,approx 50k,West,active,follow up,54,Jul,Starter,Carol,USA
+CUST1225,ORD05225,2025-04-15,43705.25,south ,active,N/A,47,Apr,Starter,Alice,USA
+CUST1226,ORD05226,08-21-2025,37213.86,NORTH,active,follow up,41,Aug,Starter,Alice,USA
+CUST1227,ORD05227,09-22-2025,29796.58, north,active,None,45,Sep,Pro,David,USA
+CUST1228,ORD05228,10-23-2025,22719.25,North,active,None,,Oct,Starter,Carol,USA
+CUST1229,ORD05229,10-21-2025,9195.47,North,trial,follow up,36,Oct,Enterprise,Bob,USA
+CUST1230,ORD05230,2025-03-18,32861.77,South,inactive,-,24,Mar,Pro,Carol,USA
+CUST1231,ORD05231,2025-12-11,10589.38,West,inactive,follow up,55,Dec,Pro,Carol,USA
+CUST1232,ORD05232,2025-07-08,39095.05,South,active,follow up,41,Jul,Basic,Bob,UK
+CUST1233,ORD05232,04/01/2025,21213.22,East,active,N/A,,Jan,Basic,Carol,USA
+CUST1234,ORD05234,03/08/2025,83573.28, north,trial,follow up,31,Aug,Basic,Carol,Canada
+CUST1235,ORD05235,02-18-2025,7674.25,North,trial,,47,Feb,Starter,Carol,USA
+CUST1236,ORD05236,07-21-2025,78750.54,South,trial,None,42,Jul,Starter,Eve,USA
+CUST1237,ORD05237,27/08/2025,14389.69, west,churned,na,56,Aug,Enterprise,Alice,USA
+CUST1238,ORD05238,12-27-2025,26206.17,East,active,follow up,35,Dec,Starter,Carol,Canada
+CUST1239,ORD05239,2025-05-14,57722.0,South,active,-,,May,Starter,Alice,USA
+CUST1240,ORD05240,2025-03-08,"30135,", north,churned,follow up,45,Mar,Enterprise,Alice,USA
+CUST1241,ORD05241,2025-03-07,55085.89,North,active,-,43,Mar,Basic,David,Canada
+CUST1242,ORD05242,30/03/2025,TBD,NORTH,active,-,33,Mar,Starter,Carol,Canada
+CUST1243,ORD05243,2025-02-01,47033.19,South,trial,,30,Feb,Enterprise,David,USA
+CUST1244,ORD05244,06-26-2025,66531.27,East,active,N/A,46,Jun,Pro,Alice,Canada
+CUST1245,ORD05245,2025-04-30,65298.16,south ,trial,follow up,,Apr,Enterprise,Bob,UK
+CUST1246,ORD05246,2025-07-01,67879.51,North,churned,None,59,Jul,Starter,Eve,USA
+CUST1247,ORD05247,09-10-2025,68978.9,South,active,N/A,53,Sep,Basic,Alice,USA
+CUST1248,ORD05248,08/03/2025,17523.74,NORTH,trial,na,42,Mar,Pro,Alice,USA
+CUST1249,ORD05249,2025-10-28,56450.79,West,inactive,na,42,Oct,Pro,Bob,UK
+CUST1250,ORD05250,2025-07-02,78987.42,NORTH,active,None,33,Jul,Basic,Eve,USA
+CUST1251,ORD05251,2025-11-10,27389.33,NORTH,active,follow up,28,Nov,Starter,Carol,USA
+CUST1252,ORD05252,02-15-2025,75309.56,South,active,None,43,Feb,Pro,Carol,USA
+CUST1253,ORD05253,08-13-2025,4568.46, west,churned,follow up,32,Aug,Basic,Alice,Canada
+CUST1254,ORD05254,2025-12-18,49345.69,North,churned,follow up,26,Dec,Pro,Alice,USA
+CUST1255,ORD05255,03-24-2025,75530.19, north,active,follow up,,Mar,Basic,Alice,Canada
+CUST1256,ORD05256,2025-08-11,14442.26,West,active,na,,Aug,Pro,Carol,USA
+CUST1257,ORD05257,10-20-2025,4694.19,West,trial,N/A,31,Oct,Basic,Bob,USA
+CUST1258,ORD05258,2025-05-30,approx 50k, west,active,-,29,May,Pro,Alice,UK
+CUST1259,ORD05259,15/07/2025,31851.23,south ,churned,-,24,Jul,Enterprise,Bob,USA
+CUST1260,ORD05260,05/10/2025,29550.37,West,inactive,N/A,59,Oct,Basic,Eve,USA
+CUST1261,ORD05261,01-18-2025,7171.7,NORTH,trial,follow up,55,Jan,Basic,Bob,USA
+CUST1262,ORD05262,2025-03-06,68814.93,south ,active,na,65,Mar,Enterprise,Alice,Canada
+CUST1263,ORD05263,05-22-2025,47148.58,West,trial,follow up,22,May,Starter,Eve,UK
+CUST1264,ORD05264,2025-02-21,82028.28,East,churned,follow up,28,Feb,Basic,David,UK
+CUST1265,ORD05265,22/05/2025,3665.85,West,churned,follow up,60,May,Starter,Alice,Canada
+CUST1266,ORD05266,11/01/2025,76299.15, north,trial,-,41,Jan,Starter,Carol,Canada
+CUST1267,ORD05267,08-02-2025,27613.37, west,trial,-,34,Aug,Pro,Alice,UK
+CUST1268,ORD05268,12-30-2025,6044.63,North,trial,follow up,55,Dec,Starter,Alice,USA
+CUST1269,ORD05269,07-04-2025,approx 50k,West,active,follow up,45,Jul,Enterprise,Bob,USA
+CUST1270,ORD05270,08-31-2025,38195.74, north,inactive,None,44,Aug,Enterprise,Bob,UK
+CUST1271,ORD05271,04-24-2025,18609.92,North,trial,-,35,Apr,Enterprise,David,USA
+CUST1272,ORD05272,2025-01-05,51296.49,south ,inactive,follow up,41,Jan,Pro,David,USA
+CUST1273,ORD05273,09-24-2025,26031.26,south ,active,None,28,Sep,Basic,Alice,USA
+CUST1274,ORD05274,22/05/2025,54630.26,South,trial,na,63,May,Basic,Carol,USA
+CUST1275,ORD05275,01/06/2025,55881.35,South,active,N/A,47,Jun,Starter,Eve,Canada
+CUST1276,ORD05276,17/09/2025,57272.89,NORTH,inactive,follow up,64,Sep,Starter,Carol,UK
+CUST1277,ORD05277,15/12/2025,15969.28,West,churned,None,36,Dec,Pro,Carol,UK
+CUST1278,ORD05278,2025-08-29,72427.57, north,trial,,59,Aug,Enterprise,David,UK
+CUST1279,ORD05279,2025-03-19,5068.24, west,trial,,43,Mar,Starter,Alice,Canada
+CUST1280,ORD05280,06-10-2025,83871.11,NORTH,trial,na,,Jun,Basic,Alice,USA
+CUST1281,ORD05281,26/07/2025,54029.7,South,active,,46,Jul,Pro,Eve,USA
+CUST1282,ORD05282,2025-05-08,approx 50k,West,churned,N/A,44,May,Starter,Alice,USA
+CUST1283,ORD05283,09-24-2025,25074.95,NORTH,inactive,follow up,49,Sep,Pro,Bob,USA
+CUST1284,ORD05284,2025-07-26,78088.36,NORTH,active,N/A,30,Jul,Enterprise,David,USA
+CUST1285,ORD05285,2025-11-01,53154.89,North,inactive,follow up,63,Nov,Basic,David,USA
+CUST1286,ORD05286,2025-03-20,40586.49, north,churned,-,62,Mar,Starter,David,USA
+CUST1287,ORD05287,2025-05-25,52695.48,south ,trial,na,53,May,Pro,David,USA
+CUST1288,ORD05288,04-17-2025,46817.73, north,trial,N/A,43,Apr,Basic,Bob,USA
+CUST1289,ORD05289,21/02/2025,6841.57,south ,active,follow up,51,Feb,Enterprise,Bob,USA
+CUST1290,ORD05290,13/12/2025,30938.14,North,active,N/A,29,Dec,Starter,Carol,USA
+CUST1291,ORD05291,05-18-2025,81205.03,NORTH,inactive,follow up,,May,Basic,Carol,Canada
+CUST1292,ORD05292,08-04-2025,40911.7,NORTH,active,N/A,32,Aug,Basic,Eve,Canada
+CUST1293,ORD05293,07-03-2025,32588.94,NORTH,inactive,follow up,,Jul,Enterprise,David,Canada
+CUST1294,ORD05294,02/12/2025,"35290,",South,active,follow up,,Dec,Pro,Eve,UK
+CUST1295,ORD05295,08-10-2025,52741.2,NORTH,active,-,52,Aug,Enterprise,Alice,USA
+CUST1296,ORD05296,2025-09-11,40154.92,East,active,na,,Sep,Starter,Eve,Canada
+CUST1297,ORD05297,24/08/2025,20357.5, west,inactive,-,50,Aug,Enterprise,Alice,Canada
+CUST1298,ORD05298,2025-01-01,47577.57,South,inactive,follow up,61,Jan,Pro,Carol,USA
+CUST1299,ORD05299,06-19-2025,71844.82, west,trial,None,60,Jun,Starter,Alice,USA
+CUST1300,ORD05300,05-30-2025,54044.37, west,active,na,28,May,Basic,Alice,USA
+CUST1301,ORD05301,2025-07-21,16347.42, north,active,follow up,34,Jul,Enterprise,David,Canada
+CUST1302,ORD05302,10/03/2025,81298.08,West,inactive,follow up,,Mar,Starter,Eve,USA
+CUST1303,ORD05303,07-18-2025,11348.26,West,active,-,42,Jul,Starter,Carol,Canada
+CUST1304,ORD05304,2025-08-20,82506.54,south ,active,follow up,60,Aug,Pro,Eve,USA
+CUST1305,ORD05305,05-29-2025,53242.16,East,trial,na,65,May,Pro,Eve,Canada
+CUST1306,ORD05306,30/12/2025,80155.92,North,active,-,56,Dec,Basic,Bob,USA
+CUST1307,ORD05307,24/03/2025,17391.75,south ,active,follow up,31,Mar,Enterprise,Carol,Canada
+CUST1308,ORD05308,2025-10-15,73848.99,south ,active,,57,Oct,Basic,David,Canada
+CUST1309,ORD05309,06-10-2025,82957.02,South,trial,follow up,,Jun,Basic,Bob,USA
+CUST1310,ORD05310,2025-11-05,46688.98, north,trial,na,34,Nov,Enterprise,David,USA
+CUST1311,ORD05311,2025-03-08,47532.58,NORTH,churned,-,38,Mar,Enterprise,Eve,USA
+CUST1312,ORD05312,2025-07-03,48891.21, north,trial,na,42,Jul,Basic,Eve,UK
+CUST1313,ORD05313,04-20-2025,30024.55, west,trial,,45,Apr,Enterprise,Alice,USA
+CUST1314,ORD05314,11-11-2025,76929.95,East,trial,follow up,24,Nov,Enterprise,David,USA
+CUST1315,ORD05315,22/09/2025,24399.05,south ,trial,N/A,54,Sep,Pro,Eve,USA
+CUST1316,ORD05316,10-03-2025,14644.86,West,trial,na,,Oct,Basic,Alice,USA
+CUST1317,ORD05317,2025-01-20,TBD, north,trial,None,,Jan,Pro,David,Canada
+CUST1318,ORD05318,2025-06-11,34675.86, north,active,,29,Jun,Enterprise,Alice,USA
+CUST1319,ORD05319,18/12/2025,9468.45, west,trial,follow up,40,Dec,Enterprise,David,USA
+CUST1320,ORD05320,07-20-2025,12024.23,North,active,None,62,Jul,Starter,Alice,USA
+CUST1321,ORD05321,10-03-2025,TBD,South,active,None,41,Oct,Starter,Bob,USA
+CUST1322,ORD05322,2025-04-10,71036.24, west,active,follow up,58,Apr,Pro,Alice,USA
+CUST1323,ORD05323,07/09/2025,61812.29, north,active,follow up,64,Sep,Starter,Carol,Canada
+CUST1324,ORD05324,06-06-2025,52580.94,West,churned,None,58,Jun,Starter,Bob,Canada
+CUST1325,ORD05325,12-14-2025,30876.57,south ,active,None,52,Dec,Starter,Eve,USA
+CUST1326,ORD05326,03-13-2025,73061.3,North,active,N/A,62,Mar,Enterprise,Eve,UK
+CUST1327,ORD05327,01-19-2025,50358.07,East,trial,na,56,Jan,Pro,Bob,Canada
+CUST1328,ORD05328,07-06-2025,8151.82,NORTH,trial,,,Jul,Basic,Bob,USA
+CUST1329,ORD05329,03-16-2025,48311.16,South,churned,-,44,Mar,Starter,Alice,USA
+CUST1330,ORD05330,18/07/2025,67378.41, north,active,None,24,Jul,Pro,Carol,UK
+CUST1331,ORD05331,01/12/2025,15190.31, north,inactive,follow up,63,Dec,Starter,Eve,Canada
+CUST1332,ORD05332,07/09/2025,73822.29, west,active,na,22,Sep,Pro,Bob,USA
+CUST1333,ORD05333,03-02-2025,31107.84, west,inactive,follow up,43,Mar,Starter,Eve,USA
+CUST1334,ORD05334,2025-05-05,35220.98,North,trial,,59,May,Enterprise,Bob,USA
+CUST1335,ORD05335,07-27-2025,44156.14, north,active,None,62,Jul,Basic,David,USA
+CUST1336,ORD05336,03-15-2025,35209.8,south ,active,follow up,33,Mar,Pro,David,UK
+CUST1337,ORD05337,2025-07-17,19919.27,West,active,,,Jul,Enterprise,Bob,Canada
+CUST1338,ORD05338,09-30-2025,51184.27,North,trial,na,27,Sep,Basic,Eve,Canada
+CUST1339,ORD05339,29/09/2025,4170.53,West,trial,follow up,52,Sep,Enterprise,David,USA
+CUST1340,ORD05340,12/02/2025,65215.08,North,trial,na,56,Feb,Enterprise,Eve,UK
+CUST1341,ORD05341,2025-12-02,1107.9,NORTH,active,N/A,42,Dec,Pro,Carol,UK
+CUST1342,ORD05342,05-22-2025,31396.93, west,active,,35,May,Basic,Carol,USA
+CUST1343,ORD05343,07-23-2025,65919.43, west,trial,na,64,Jul,Enterprise,Bob,UK
+CUST1344,ORD05344,10-09-2025,29098.0, north,inactive,N/A,25,Oct,Basic,Alice,USA
+CUST1345,ORD05345,2025-11-08,31835.57,south ,active,follow up,47,Nov,Enterprise,Bob,Canada
+CUST1346,ORD05346,12-03-2025,17544.26,South,active,follow up,24,Dec,Enterprise,Carol,USA
+CUST1347,ORD05347,14/02/2025,82942.08,West,active,follow up,44,Feb,Enterprise,Alice,USA
+CUST1348,ORD05348,10-14-2025,61858.72, west,active,na,39,Oct,Enterprise,Carol,USA
+CUST1349,ORD05349,02-07-2025,9496.29,south ,trial,follow up,29,Feb,Pro,David,Canada
+CUST1350,ORD05350,23/06/2025,65562.23, west,active,follow up,59,Jun,Basic,Bob,USA
+CUST1351,ORD05351,06-30-2025,35349.99,West,trial,N/A,38,Jun,Pro,Alice,UK
+CUST1352,ORD05352,2025-07-01,40768.94, west,trial,na,39,Jul,Starter,Carol,USA
+CUST1353,ORD05353,13/11/2025,71052.47, west,trial,N/A,28,Nov,Enterprise,David,USA
+CUST1354,ORD05354,22/10/2025,42102.76,NORTH,trial,na,54,Oct,Basic,David,UK
+CUST1355,ORD05355,2025-12-18,approx 50k, west,active,follow up,29,Dec,Enterprise,Bob,Canada
+CUST1356,ORD05356,10/11/2025,27999.36,East,inactive,-,38,Nov,Basic,Bob,Canada
+CUST1357,ORD05357,25/07/2025,31960.16,South,active,,58,Jul,Pro,Bob,UK
+CUST1358,ORD05358,03-16-2025,32684.65,NORTH,trial,-,22,Mar,Pro,David,USA
+CUST1359,ORD05359,25/01/2025,73043.42,south ,active,na,,Jan,Enterprise,David,USA
+CUST1360,ORD05360,13/10/2025,30945.91,South,active,,48,Oct,Starter,Carol,USA
+CUST1361,ORD05361,2025-08-17,43632.56,NORTH,churned,na,40,Aug,Basic,Eve,UK
+CUST1362,ORD05362,2025-02-10,77147.67,south ,inactive,None,42,Feb,Pro,David,USA
+CUST1363,ORD05363,19/08/2025,44519.07,south ,active,na,23,Aug,Enterprise,Bob,USA
+CUST1364,ORD05364,08-31-2025,8574.29, north,active,follow up,,Aug,Starter,Alice,Canada
+CUST1365,ORD05365,26/05/2025,21405.01,North,churned,na,30,May,Pro,David,Canada
+CUST1366,ORD05366,05-20-2025,46179.36, west,active,,56,May,Basic,Eve,UK
+CUST1367,ORD05367,2025-10-04,29835.72,south ,active,-,50,Oct,Enterprise,Eve,USA
+CUST1368,ORD05368,01-05-2025,40147.23,south ,trial,-,52,Jan,Enterprise,Eve,USA
+CUST1369,ORD05369,12/08/2025,75042.69,South,inactive,-,63,Aug,Starter,Eve,UK
+CUST1370,ORD05370,05-26-2025,58352.1,NORTH,active,N/A,39,May,Basic,Eve,Canada
+CUST1371,ORD05371,07/04/2025,53122.69,North,active,,,Apr,Pro,Carol,USA
+CUST1372,ORD05372,2025-04-30,61940.55,south ,inactive,-,53,Apr,Pro,David,USA
+CUST1373,ORD05373,2025-03-16,71779.66,NORTH,trial,-,47,Mar,Pro,David,USA
+CUST1374,ORD05374,08/05/2025,65408.31,South,trial,N/A,50,May,Enterprise,Eve,USA
+CUST1375,ORD05375,09/06/2025,58081.88, north,active,follow up,24,Jun,Pro,Bob,USA
+CUST1376,ORD05376,2025-04-22,73479.07,south ,inactive,na,49,Apr,Starter,Alice,USA
+CUST1377,ORD05377,12-19-2025,58868.49, north,churned,-,27,Dec,Enterprise,Alice,USA
+CUST1378,ORD05378,2025-02-24,59762.23,East,inactive,follow up,42,Feb,Starter,Alice,Canada
+CUST1379,ORD05379,21/01/2025,11884.87,South,active,-,57,Jan,Pro,Carol,Canada
+CUST1380,ORD05380,2025-10-11,70749.04,south ,inactive,None,,Oct,Enterprise,Eve,Canada
+CUST1381,ORD05381,14/11/2025,75107.79,West,active,N/A,37,Nov,Basic,Eve,USA
+CUST1382,ORD05382,25/11/2025,27759.7,North,trial,N/A,,Nov,Starter,Alice,USA
+CUST1383,ORD05383,01-17-2025,16691.61,south ,trial,follow up,46,Jan,Enterprise,Alice,USA
+CUST1384,ORD05384,10/02/2025,78950.11,East,active,-,25,Feb,Pro,Eve,USA
+CUST1385,ORD05385,2025-02-09,71011.57,West,active,na,28,Feb,Starter,Eve,USA
+CUST1386,ORD05386,02-24-2025,47662.97, north,trial,-,65,Feb,Basic,Eve,USA
+CUST1387,ORD05387,04/11/2025,45614.59,East,active,None,42,Nov,Basic,Carol,UK
+CUST1388,ORD05388,07-12-2025,46605.42, west,active,-,38,Jul,Enterprise,Carol,UK
+CUST1389,ORD05389,2025-06-04,approx 50k,North,active,None,36,Jun,Pro,Eve,UK
+CUST1390,ORD05390,2025-03-21,78740.45,south ,active,na,,Mar,Starter,Bob,USA
+CUST1391,ORD05391,07-24-2025,8265.98, west,trial,follow up,26,Jul,Enterprise,Eve,USA
+CUST1392,ORD05392,2025-07-15,TBD,West,active,-,43,Jul,Starter,Eve,USA
+CUST1393,ORD05393,28/01/2025,53920.36,East,trial,na,42,Jan,Starter,Alice,Canada
+CUST1394,ORD05394,10-22-2025,64115.0,NORTH,active,-,,Oct,Basic,Eve,USA
+CUST1395,ORD05395,07-24-2025,22686.15, west,inactive,follow up,30,Jul,Basic,Eve,USA
+CUST1396,ORD05396,2025-09-26,84753.16,East,active,follow up,39,Sep,Enterprise,Alice,Canada
+CUST1397,ORD05397,14/06/2025,29932.01,NORTH,active,follow up,23,Jun,Basic,Eve,USA
+CUST1398,ORD05398,2025-04-30,78596.02, north,active,follow up,31,Apr,Starter,Eve,USA
+CUST1399,ORD05399,08/01/2025,69801.32,North,active,-,29,Jan,Starter,Bob,UK
+CUST1400,ORD05400,09-05-2025,22356.6,North,active,follow up,31,Sep,Enterprise,Carol,USA
+CUST1401,ORD05401,12-23-2025,"27305,",North,active,follow up,51,Dec,Pro,Carol,USA
+CUST1402,ORD05402,29/11/2025,TBD,East,active,N/A,46,Nov,Enterprise,Bob,USA
+CUST1403,ORD05403,2025-12-31,39199.84,south ,inactive,follow up,,Dec,Starter,Alice,USA
+CUST1404,ORD05404,2025-06-04,30529.45,south ,trial,N/A,54,Jun,Enterprise,Eve,USA
+CUST1405,ORD05405,07-21-2025,29380.93,South,active,,46,Jul,Starter,David,USA
+CUST1406,ORD05406,2025-10-05,28324.56,NORTH,active,na,30,Oct,Starter,David,USA
+CUST1407,ORD05407,22/03/2025,48229.34,NORTH,trial,N/A,,Mar,Enterprise,Carol,Canada
+CUST1408,ORD05408,11-23-2025,26132.91,North,active,na,34,Nov,Pro,Eve,UK
+CUST1409,ORD05409,04-29-2025,50892.48,NORTH,active,-,,Apr,Basic,Carol,USA
+CUST1410,ORD05410,2025-03-12,42027.15,south ,trial,N/A,24,Mar,Starter,Bob,USA
+CUST1411,ORD05411,08-13-2025,81172.07,South,trial,follow up,42,Aug,Enterprise,Eve,Canada
+CUST1412,ORD05412,10-20-2025,33805.73,North,inactive,follow up,63,Oct,Basic,Alice,USA
+CUST1413,ORD05413,01-21-2025,33929.15,South,inactive,follow up,62,Jan,Pro,Carol,Canada
+CUST1414,ORD05414,01-28-2025,25378.47, north,active,-,31,Jan,Starter,Eve,UK
+CUST1415,ORD05415,2025-08-19,35445.76,South,active,follow up,59,Aug,Pro,Carol,USA
+CUST1416,ORD05416,02-28-2025,10939.49,NORTH,inactive,-,45,Feb,Enterprise,Bob,USA
+CUST1417,ORD05417,2025-03-18,56230.31,North,churned,follow up,33,Mar,Basic,Carol,USA
+CUST1418,ORD05418,2025-04-14,11617.75, west,active,-,38,Apr,Basic,Bob,USA
+CUST1419,ORD05419,29/07/2025,40697.66,South,churned,follow up,,Jul,Starter,Alice,USA
+CUST1420,ORD05420,2025-01-19,55701.9,south ,active,,64,Jan,Enterprise,Alice,Canada
+CUST1421,ORD05421,05-26-2025,14132.83,NORTH,active,,60,May,Pro,Alice,USA
+CUST1422,ORD05422,2025-07-14,27778.45,NORTH,trial,-,57,Jul,Pro,Carol,UK
+CUST1423,ORD05423,04-18-2025,18231.93, north,active,,,Apr,Pro,David,UK
+CUST1424,ORD05424,10-22-2025,22441.27, west,active,follow up,30,Oct,Basic,David,USA
+CUST1425,ORD05425,2025-05-29,20164.98,South,inactive,N/A,,May,Basic,Alice,USA
+CUST1426,ORD05426,2025-04-19,68610.68,south ,active,N/A,40,Apr,Pro,Alice,USA
+CUST1427,ORD05427,10-19-2025,29345.05, west,trial,None,33,Oct,Enterprise,Bob,Canada
+CUST1428,ORD05428,02/10/2025,39422.22,North,churned,follow up,48,Oct,Pro,Eve,UK
+CUST1429,ORD05429,19/06/2025,TBD,East,active,N/A,,Jun,Starter,Eve,UK
+CUST1430,ORD05430,06-07-2025,50793.71, west,churned,N/A,24,Jun,Basic,Carol,USA
+CUST1431,ORD05431,2025-07-11,15288.58, west,trial,N/A,27,Jul,Starter,Carol,Canada
+CUST1432,ORD05432,2025-06-17,44746.56,NORTH,active,follow up,28,Jun,Basic,David,UK
+CUST1433,ORD05433,01-23-2025,26777.92, north,active,N/A,27,Jan,Pro,Alice,UK
+CUST1434,ORD05434,18/04/2025,54482.9, west,churned,None,40,Apr,Starter,Bob,USA
+CUST1435,ORD05435,10-14-2025,81476.19,East,active,,,Oct,Pro,Eve,USA
+CUST1436,ORD05436,06-23-2025,26811.4, north,active,N/A,30,Jun,Basic,David,USA
+CUST1437,ORD05437,11-19-2025,75812.81,South,active,None,61,Nov,Enterprise,David,UK
+CUST1438,ORD05438,24/12/2025,69185.91, west,trial,-,,Dec,Starter,Eve,USA
+CUST1439,ORD05439,12-25-2025,33630.5, north,churned,N/A,42,Dec,Basic,David,USA
+CUST1440,ORD05440,2025-10-22,29958.0, north,active,follow up,47,Oct,Enterprise,Carol,UK
+CUST1441,ORD05441,05-03-2025,50400.29,West,trial,follow up,32,May,Basic,David,UK
+CUST1442,ORD05442,2025-05-01,46512.52, west,active,follow up,26,May,Basic,Carol,UK
+CUST1443,ORD05443,07/06/2025,38120.77,West,active,,,Jun,Enterprise,Alice,USA
+CUST1444,ORD05444,2025-11-22,75473.6,south ,active,,64,Nov,Basic,Bob,USA
+CUST1445,ORD05445,10-19-2025,27252.51,East,active,follow up,49,Oct,Enterprise,Eve,UK
+CUST1446,ORD05446,2025-05-31,11278.46,North,trial,follow up,57,May,Pro,Alice,USA
+CUST1447,ORD05447,12-26-2025,20377.88,West,active,follow up,42,Dec,Starter,Bob,Canada
+CUST1448,ORD05448,04/07/2025,47433.12, north,trial,N/A,64,Jul,Basic,David,USA
+CUST1449,ORD05449,01/08/2025,54769.53,NORTH,inactive,follow up,60,Aug,Basic,David,USA
+CUST1450,ORD05450,01-04-2025,36393.22,south ,active,follow up,37,Jan,Pro,Alice,USA
+CUST1451,ORD05451,02-27-2025,60062.57,south ,active,,27,Feb,Enterprise,Bob,Canada
+CUST1452,ORD05452,2025-12-09,56585.77,south ,churned,follow up,56,Dec,Enterprise,David,Canada
+CUST1453,ORD05453,19/06/2025,40150.14,south ,active,N/A,40,Jun,Pro,Alice,Canada
+CUST1454,ORD05454,03/12/2025,48906.67, north,active,-,61,Dec,Pro,Carol,USA
+CUST1455,ORD05455,2025-05-12,23755.85,NORTH,churned,,60,May,Starter,Carol,USA
+CUST1456,ORD05456,17/01/2025,68046.93, west,inactive,na,31,Jan,Basic,Bob,Canada
+CUST1457,ORD05457,10-23-2025,14635.44, north,inactive,follow up,25,Oct,Basic,David,USA
+CUST1458,ORD05457,2025-09-30,80627.27,West,trial,na,46,Sep,Basic,David,USA
+CUST1459,ORD05459,2025-01-22,58203.05,south ,churned,-,62,Jan,Enterprise,Carol,UK
+CUST1460,ORD05460,05-04-2025,65831.26,East,active,na,34,May,Enterprise,Alice,USA
+CUST1461,ORD05461,17/12/2025,44884.83,North,active,N/A,40,Dec,Starter,Eve,USA
+CUST1462,ORD05462,2025-11-06,10638.07, north,churned,na,63,Nov,Pro,David,USA
+CUST1463,ORD05463,22/05/2025,78467.76,East,trial,follow up,64,May,Enterprise,Carol,USA
+CUST1464,ORD05464,31/01/2025,28609.33, west,trial,N/A,38,Jan,Basic,Bob,Canada
+CUST1465,ORD05465,2025-08-09,46183.42,south ,active,follow up,28,Aug,Enterprise,Eve,USA
+CUST1466,ORD05466,2025-09-12,2085.63,West,active,follow up,22,Sep,Pro,David,UK
+CUST1467,ORD05467,09/09/2025,TBD,West,trial,N/A,26,Sep,Basic,Alice,UK
+CUST1468,ORD05468,06-20-2025,84290.32, north,trial,follow up,25,Jun,Pro,Alice,Canada
+CUST1469,ORD05469,2025-04-14,25001.51,south ,active,follow up,46,Apr,Pro,David,USA
+CUST1470,ORD05470,2025-04-08,37509.63,South,active,,,Apr,Pro,David,UK
+CUST1471,ORD05471,2025-01-09,69095.25,North,trial,follow up,43,Jan,Basic,Eve,USA
+CUST1472,ORD05472,2025-02-06,20187.29, west,active,follow up,53,Feb,Enterprise,Bob,USA
+CUST1473,ORD05473,2025-06-07,TBD, north,active,follow up,32,Jun,Enterprise,David,UK
+CUST1474,ORD05474,14/04/2025,19138.38,NORTH,trial,N/A,65,Apr,Starter,Alice,UK
+CUST1475,ORD05475,2025-05-21,5842.25,NORTH,active,follow up,32,May,Enterprise,Bob,USA
+CUST1476,ORD05476,2025-07-12,53920.44,North,active,N/A,,Jul,Pro,David,Canada
+CUST1477,ORD05477,24/11/2025,17920.54,North,active,na,48,Nov,Basic,Eve,USA
+CUST1478,ORD05478,28/06/2025,66628.27, north,trial,N/A,,Jun,Starter,David,USA
+CUST1479,ORD05479,03-18-2025,16869.25,North,churned,na,52,Mar,Pro,Bob,Canada
+CUST1480,ORD05480,2025-08-21,52621.24,NORTH,active,,,Aug,Basic,Eve,USA
+CUST1481,ORD05481,08-16-2025,"31841,",South,churned,None,48,Aug,Starter,Alice,USA
+CUST1482,ORD05482,2025-07-12,74005.39,West,active,N/A,,Jul,Basic,Bob,Canada
+CUST1483,ORD05483,04-10-2025,39179.05,North,active,na,39,Apr,Pro,Bob,USA
+CUST1484,ORD05484,29/03/2025,39249.92,NORTH,active,follow up,40,Mar,Starter,Alice,Canada
+CUST1485,ORD05485,04-21-2025,41838.53,South,inactive,-,51,Apr,Starter,Eve,USA
+CUST1486,ORD05486,2025-08-02,76402.28,North,inactive,,,Aug,Basic,Alice,Canada
+CUST1487,ORD05487,01-07-2025,7521.23,South,active,None,35,Jan,Enterprise,David,USA
+CUST1488,ORD05488,10-20-2025,39309.4,West,trial,na,51,Oct,Pro,David,USA
+CUST1489,ORD05489,20/12/2025,6474.03,South,active,None,40,Dec,Pro,Alice,UK
+CUST1490,ORD05490,2025-01-27,57508.18,East,active,follow up,51,Jan,Enterprise,Eve,USA
+CUST1491,ORD05491,2025-10-04,28801.56,South,trial,follow up,59,Oct,Starter,Carol,USA
+CUST1492,ORD05492,05/08/2025,43051.32, west,trial,-,,Aug,Enterprise,David,UK
+CUST1493,ORD05493,30/05/2025,45526.29, north,inactive,follow up,65,May,Enterprise,Alice,Canada
+CUST1494,ORD05494,2025-02-09,24867.49, west,trial,follow up,29,Feb,Enterprise,Carol,Canada
+CUST1495,ORD05495,09/03/2025,46251.25,North,active,follow up,50,Mar,Enterprise,Bob,UK
+CUST1496,ORD05496,06-25-2025,35287.95, west,active,,42,Jun,Starter,Carol,USA
+CUST1497,ORD05497,10/07/2025,19663.07, west,active,None,25,Jul,Starter,Eve,USA
+CUST1498,ORD05498,12-29-2025,15317.86,North,active,N/A,31,Dec,Starter,David,USA
+CUST1499,ORD05499,2025-12-29,17835.63,NORTH,active,-,44,Dec,Enterprise,David,Canada
